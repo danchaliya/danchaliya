@@ -5,3 +5,4 @@
 ### - 👨🏻‍💻 Languages I know are: Python
 ### - 🥈 Hobbies: Tennis, Model UN, Sleeping
 ### - 📫 How to reach me: divesh.nc@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danchaliya)](https://github.com/anuraghazra/github-readme-stats)
