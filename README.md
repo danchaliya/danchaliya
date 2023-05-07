@@ -3,7 +3,7 @@
 ### - 🔭 I’m currently working on building an API 
 ### - 🌱 I'm currently learning Routers and Subrouting
 ### - 👨🏻‍💻 Languages I know are: Python
-### - 🥈 Hobbies: Tennis, Model UN, Sleeping
+### - 🥈 Hobbies: Tennis, Model UN, League of Legends 
 ### - 📫 How to reach me: divesh.nc@gmail.com
 
 ### - Stats: 
