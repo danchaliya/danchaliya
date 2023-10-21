@@ -5,4 +5,4 @@
 ### - 👨🏻‍💻 Languages I know are: Python, Java, Go, some HTML and some Typescript
 ### - 🥈 Hobbies: Tennis, Model UN, League of Legends 
 ### - 📫 How to reach me: divesh.nc@gmail.com
-### - Personal Website: https://diveshanchaliya.xyz/
+
